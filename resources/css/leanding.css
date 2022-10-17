@@ -5,8 +5,6 @@ header{
     clear: both;
     content:'';
     display: table;
-
-
     }
 
 nav ul li{
@@ -14,10 +12,4 @@ nav ul li{
     margin-left: 60px;
     padding: 25px 0;
     float: left;
-}
-
-nav ul li a{
-   text-decoration: none;
-   color: #444;
-   font-weight: bold;
 }
