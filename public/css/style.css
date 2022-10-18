@@ -286,7 +286,7 @@ a, input[type=submit] {
     height: 158px;
     z-index: -1;
     opacity: 0.15;
-    animation-duration: 1s;
+    animation-duration: 20s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
 }
@@ -587,8 +587,8 @@ svg.logo text {
     display: block;
     padding: 5px 12px;
     border-radius: 10px;
-    -webkit-transition: all 0.3s ease 0s;
-    transition: all 0.3s ease 0s;
+    -webkit-transition: all 0.1s ease 0s;
+    transition: all 0.1s ease 0s;
 }
 
 .dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
@@ -609,8 +609,8 @@ svg.logo text {
     -moz-transform: scale(1, 0);
     -ms-transform: scale(1, 0);
     transform: scale(1, 0);
-    -webkit-transition: all 0.3s cubic-bezier(0.78, 0.74, 0.25, 1);
-    transition: all 0.3s cubic-bezier(0.78, 0.74, 0.25, 1);
+    -webkit-transition: all 0.1s cubic-bezier(0.78, 0.74, 0.25, 1);
+    transition: all 0.1s cubic-bezier(0.78, 0.74, 0.25, 1);
     opacity: 0;
 }
 
@@ -622,8 +622,8 @@ svg.logo text {
 }
 
 .dropdown {
-    -webkit-transition: all 0.3s ease 0s;
-    transition: all 0.3s ease 0s;
+    -webkit-transition: all 0.1s ease 0s;
+    transition: all 0.1s ease 0s;
 }
 
 .dropdown:hover .dropdown-menu, .dropdown:focus .dropdown-menu {
@@ -632,8 +632,8 @@ svg.logo text {
 
 .dropdown.mega {
     position: inherit;
-    -webkit-transition: all 0.3s ease 0s;
-    transition: all 0.3s ease 0s;
+    -webkit-transition: all 0.1s ease 0s;
+    transition: all 0.1s ease 0s;
 }
 
 .dropdown.mega > a {
@@ -653,8 +653,8 @@ svg.logo text {
     border-right: 7px solid transparent;
     border-bottom: 7px solid #ffffff;
     opacity: 0;
-    -webkit-transition: all 0.3s ease;
-    transition: all 0.3s ease;
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.1s ease;
 }
 
 .dropdown.mega:hover > a:before, .dropdown.mega:focus > a:before {
@@ -692,8 +692,8 @@ svg.logo text {
 }
 
 .dropdown.unity-menu {
-    -webkit-transition: all 0.3s ease 0s;
-    transition: all 0.3s ease 0s;
+    -webkit-transition: all 0.1s ease 0s;
+    transition: all 0.1s ease 0s;
 }
 
 .dropdown.unity-menu > a {
@@ -1714,7 +1714,7 @@ svg.logo text {
 }
 
 .service-box {
-    border-radius: 10px;
+    border-radius: 15px;
     border: 0;
     background-color: #fcfcfd;
     position: relative;
@@ -1757,19 +1757,19 @@ svg.logo text {
     font-weight: 600;
     color: #2A4968;
     text-transform: uppercase;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 
 .service-box .service-title a {
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 600;
     color: #2A4968;
     background-color: #EBF2F9;
-    border-radius: 10px;
+    border-radius: 20px;
     padding: 3px 24px 3px 15px;
     padding: 3px 15px 3px 15px;
     text-transform: uppercase;
-    position: relative;
+    position: center;
     display: inline-block;
     cursor: pointer;
     -webkit-transition: all 0.3s ease 0s;
@@ -1796,7 +1796,7 @@ svg.logo text {
 }
 
 .service-box .service-title a:hover:after, .service-box .service-title a:focus:after {
-    right: 10px;
+    right: 20px;
     -webkit-transform: translateX(2px);
     -moz-transform: translateX(2px);
     -ms-transform: translateX(2px);
@@ -7351,4 +7351,14 @@ svg.logo text {
     .darkbg .info-details-holder {
         min-height: 340px;
     }
+}
+
+
+::-webkit-scrollbar{
+background-color: transparent;width:11px;
+
+}::-webkit-scrollbar-thumb{
+background-color:#3195FF;
+border-radius:0px;
+width:10%;
 }

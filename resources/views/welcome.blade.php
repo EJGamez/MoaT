@@ -13,7 +13,8 @@
 </head>
 
 <body>
-<div id="header-holder" class="main-header">
+
+    <div id="header-holder" class="main-header">
     <div class="bg-animation">
         <div class="graphic-show">
             <img class="fix-size" src="images/graphic1.png" alt="">
@@ -35,14 +36,15 @@
                                 <span class="icon-bar"></span>
                             </button>
 
-                            <a href="#">
-                            <img src="images\moat-logo.png" width="130" height="95" alt="homepage" class="contenedor-logo">
+
+                            <a class="navbar-brand" href="#">
+                                <img src="images\moat-logo.png" width="80" >
                             </a>
 
                         </div>
                         <div style="height: 1px;" role="main" aria-expanded="false" class="navbar-collapse collapse" id="bs">
                             <ul class="nav navbar-nav navbar-right">
-                                <li><a href="index.html">Inicio</a></li>
+                                <li><a href="#">Inicio</a></li>
                                 <li><a href="#">Servicios</a></li>
                                 <li><a href="#">Planes</a></li>
                                 <li><a href="#">Complementos</a></li>
@@ -74,17 +76,20 @@
                                 <h1>Dedicado a Instituciones Educativas.</h1>
                             </div>
                             <div class="spacer"></div>
-                            <div class="big-title">Todo en <span>un solo lugar,</span><br>donde sea, cuando sea.</div>
+                            <div class="big-title">Todo en <span>un solo lugar,</span> <br>donde sea, cuando sea.</div>
                             <p>Moat es el primer paso para el desarrollo de sistemas autosuficientes dedicados a las instituciones educativas, empresas y el usuario comun.</p>
                             <div class="btn-holder">
                                 <a href="#" class="ybtn ybtn-header-color">Registrarse</a><a href="#" class="ybtn ybtn-white ybtn-shadow">Acerca de...</a>
                             </div>
                         </div>
                     </div>
+
                 </div>
+
                 <div class="col-md-6">
                     <img class="header-graphic" src="images/graphic1.png" alt="" />
                 </div>
+
             </div>
         </div>
     </div>
@@ -98,6 +103,60 @@
         </div>
     </div>
 </div>
+
+
+<div id="services" class="container-fluid">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row-title">Nuestros Servicios</div>
+                    <div class="row-subtitle">
+                    <p>Diseñado para sastisfacer de forma creativa tus necesidades.</p>
+                    </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-12 col-md-6">
+                <div class="service-box">
+                    <div class="service-icon">
+                        <ul>
+                            <img src="images\servicios\chat.png" alt="">
+                        </ul>
+
+                    </div>
+                    <div class="service-title"><a href="#">Chat</a></div>
+                    <div class="service-details">
+                        <ul>
+                            <p>Con apartados de mensajeria publicos y privados, con la capacidad de crear grupo de clase posee conexion directa con los archivos, las tareas y el calendario.</p>
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-12 col-md-6">
+                    <div class="service-box">
+                        <div class="service-icon">
+                            <ul>
+                                <img src="images\servicios\taller.png" alt="">
+                            </ul>
+
+                        </div>
+                        <div class="service-title"><a href="#">Taller</a></div>
+                        <div class="service-details">
+                            <ul>
+                                <p>El taller es el corazon de Moat, dentro de el estan todas las carateristicas y funcionalidades que ofrece.</p>
+                            </ul>
+
+                        </div>
+                    </div>
+                </div>
+
+    </div>
+</div>
+
 <script src="js/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/bootstrap-slider.min.js"></script>
@@ -105,3 +164,6 @@
 <script src="js/main.js"></script>
 </body>
 </html>
+
+
+
