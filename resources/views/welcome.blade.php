@@ -42,7 +42,7 @@
                         </div>
                         <div style="height: 1px;" role="main" aria-expanded="false" class="navbar-collapse collapse" id="bs">
                             <ul class="nav navbar-nav navbar-right">
-                                <li><a href="index.html">Inicio</a></li>
+                                <li><a href="#">Inicio</a></li>
                                 <li><a href="#">Servicios</a></li>
                                 <li><a href="#">Planes</a></li>
                                 <li><a href="#">Complementos</a></li>
@@ -67,7 +67,7 @@
     <div id="top-content" class="container-fluid">
         <div class="container">
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-6"></div>
                     <div id="main-slider">
                         <div class="slide">
                             <div class="big-title">
