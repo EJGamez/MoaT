@@ -224,6 +224,203 @@
     <div class="row-subtitle">Planes Destacados</div>
 
 </div>
+
+<div id="pricing" class="container-fluid">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="pricing-box pricing-box-simple pricing-box-horizontal pricing-color1">
+                    <div class="pricing-content">
+                        <div class="pricing-head">
+                            <div class="pricing-title">Plan Personal</div>
+                        </div>
+                        <div class="pricing-features-holder">
+                            <div class="pricing-features">
+                                <ul>
+                                    <li>Adecuado para pequeños grupos de trabajo. </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="pricing-details">
+                            <ul>
+                                <li>Unlimited Storage</li>
+                                <li>500 Protected Files</li>
+                                <li>All Sharing Features</li>
+                                <li>Realtime Revoke</li>
+                                <li class="not-included">QNote Editor</li>
+                                <li class="not-included">Offline File Access</li>
+                            </ul>
+                        </div>
+                        <div class="price-link-holder">
+                            <div class="pricing-price-holder">
+                                <div>
+                                    <div class="pricing-link">
+                                        <a class="ybtn" href="#">Order Now</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div class="pricing-box pricing-box-simple pricing-box-horizontal pricing-color2 bestbuy">
+                    <div class="pricing-content">
+                        <div class="pricing-head">
+                            <div class="pricing-title">Business Plan</div>
+                        </div>
+                        <div class="pricing-features-holder">
+                            <div class="pricing-features">
+                                <ul>
+                                    <li>Great for Starting Website 1</li>
+                                    <li>Small Websites 1</li>
+                                    <li>Startups 1</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="pricing-details">
+                            <ul>
+                                <li>Unlimited Storage</li>
+                                <li>500 Protected Files</li>
+                                <li>All Sharing Features</li>
+                                <li>Realtime Revoke</li>
+                                <li>Access to Party Integrations</li>
+                                <li>QNote Editor</li>
+                                <li class="not-included">Offline File Access</li>
+                            </ul>
+                        </div>
+                        <div class="price-link-holder">
+                            <div class="pricing-price-holder">
+                                <div>
+                                    <div class="pricing-options">
+                                        <ul class="nav nav-tabs">
+                                            <li class="active"><a data-toggle="tab" href="#monthly1">Monthly</a></li>
+                                            <li><a data-toggle="tab" href="#quarterly1">Quarterly</a></li>
+                                            <li><a data-toggle="tab" href="#semiannually1">Semi-Annually</a></li>
+                                            <li><a data-toggle="tab" href="#annualy1">Annually</a></li>
+                                            <li><a data-toggle="tab" href="#biennially1">Biennially</a></li>
+                                            <li><a data-toggle="tab" href="#triennially1">Triennially</a></li>
+                                        </ul>
+                                        <div class="tab-content">
+                                            <div id="monthly1" class="tab-pane fade in active">
+                                                <div class="pricing-price">$20.00</div>
+                                                <div class="billing-cycle">Monthly</div>
+                                                <div class="setup-fee">$5.00 Setup Fee</div>
+                                            </div>
+                                            <div id="quarterly1" class="tab-pane fade">
+                                                <div class="pricing-price">$24.00</div>
+                                                <div class="billing-cycle">Quarterly</div>
+                                            </div>
+                                            <div id="semiannually1" class="tab-pane fade">
+                                                <div class="pricing-price">$28.00</div>
+                                                <div class="billing-cycle">Semi-Annually</div>
+                                            </div>
+                                            <div id="annualy1" class="tab-pane fade">
+                                                <div class="pricing-price">$32.00</div>
+                                                <div class="billing-cycle">Annually</div>
+                                            </div>
+                                            <div id="biennially1" class="tab-pane fade">
+                                                <div class="pricing-price">$36.00</div>
+                                                <div class="billing-cycle">Biennially</div>
+                                            </div>
+                                            <div id="triennially1" class="tab-pane fade">
+                                                <div class="pricing-price">$40.00</div>
+                                                <div class="billing-cycle">Triennially</div>
+                                            </div>
+                                        </div>
+                                        <div class="fix-space"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="pricing-link">
+                                <a class="ybtn" href="#">Order Now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div class="pricing-box pricing-box-simple pricing-box-horizontal pricing-color3">
+                    <div class="pricing-content">
+                        <div class="pricing-head">
+                            <div class="pricing-title">Premium Plan</div>
+                        </div>
+                        <div class="pricing-features-holder">
+                            <div class="pricing-features">
+                                <ul>
+                                    <li>Great for Starting Website 1</li>
+                                    <li>Small Websites 1</li>
+                                    <li>Startups 1</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="pricing-details">
+                            <ul>
+                                <li>Unlimited Storage</li>
+                                <li>500 Protected Files</li>
+                                <li>All Sharing Features</li>
+                                <li>Realtime Revoke</li>
+                                <li>Access to Party Integrations</li>
+                                <li>Free Native Apps</li>
+                                <li>QNote Editor</li>
+                                <li>Offline File Access</li>
+                            </ul>
+                        </div>
+                        <div class="price-link-holder">
+                            <div class="pricing-price-holder">
+                                <div>
+                                    <div class="pricing-options">
+                                        <ul class="nav nav-tabs">
+                                            <li class="active"><a data-toggle="tab" href="#monthly1">Monthly</a></li>
+                                            <li><a data-toggle="tab" href="#quarterly1">Quarterly</a></li>
+                                            <li><a data-toggle="tab" href="#semiannually1">Semi-Annually</a></li>
+                                            <li><a data-toggle="tab" href="#annualy1">Annually</a></li>
+                                            <li><a data-toggle="tab" href="#biennially1">Biennially</a></li>
+                                            <li><a data-toggle="tab" href="#triennially1">Triennially</a></li>
+                                        </ul>
+                                        <div class="tab-content">
+                                            <div id="monthly1" class="tab-pane fade in active">
+                                                <div class="pricing-price">$30.00</div>
+                                                <div class="billing-cycle">Monthly</div>
+                                                <div class="setup-fee">$5.00 Setup Fee</div>
+                                            </div>
+                                            <div id="quarterly1" class="tab-pane fade">
+                                                <div class="pricing-price">$36.00</div>
+                                                <div class="billing-cycle">Quarterly</div>
+                                            </div>
+                                            <div id="semiannually1" class="tab-pane fade">
+                                                <div class="pricing-price">$42.00</div>
+                                                <div class="billing-cycle">Semi-Annually</div>
+                                            </div>
+                                            <div id="annualy1" class="tab-pane fade">
+                                                <div class="pricing-price">$48.00</div>
+                                                <div class="billing-cycle">Annually</div>
+                                            </div>
+                                            <div id="biennially1" class="tab-pane fade">
+                                                <div class="pricing-price">$54.00</div>
+                                                <div class="billing-cycle">Biennially</div>
+                                            </div>
+                                            <div id="triennially1" class="tab-pane fade">
+                                                <div class="pricing-price">$60.00</div>
+                                                <div class="billing-cycle">Triennially</div>
+                                            </div>
+                                        </div>
+                                        <div class="fix-space"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="pricing-link">
+                                <a class="ybtn" href="#">Order Now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <script src="js/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/bootstrap-slider.min.js"></script>
