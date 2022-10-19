@@ -111,13 +111,10 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="row-title">Nuestros Servicios</div>
-                    <div class="row-subtitle">
-                    <p>Diseñado para sastisfacer de forma creativa tus necesidades.</p>
-                    </div>
+                <div class="row-title">Nuestro Servicios</div>
+                <div class="row-subtitle">Diseñado para sastisfacer de forma creativa tus necesidades.</div>
             </div>
         </div>
-
         <div class="row">
             <div class="col-sm-12 col-md-6">
                 <div class="service-box">
@@ -125,76 +122,108 @@
                         <ul>
                             <img src="images\servicios\chat.png" alt="">
                         </ul>
-
                     </div>
                     <div class="service-title"><a href="#">Chat</a></div>
                     <div class="service-details">
                         <ul>
                             <p>Con apartados de mensajeria publicos y privados, con la capacidad de crear grupo de clase posee conexion directa con los archivos, las tareas y el calendario.</p>
                         </ul>
-
                     </div>
                 </div>
             </div>
-
-        <div class="row">
             <div class="col-sm-12 col-md-6">
                 <div class="service-box">
                     <div class="service-icon">
                         <ul>
-                                <img src="images\servicios\taller.png" alt="">
+                            <img src="images\servicios\taller.png" alt="">
                         </ul>
-
                     </div>
                     <div class="service-title"><a href="#">Taller</a></div>
                     <div class="service-details">
                         <ul>
-                                <p>El taller es el corazon de Moat, dentro de el estan todas las carateristicas y funcionalidades que ofrece.</p>
+                            <p>Con apartados de mensajeria publicos y privados, con la capacidad de crear grupo de clase posee conexion directa con los archivos, las tareas y el calendario.</p>
                         </ul>
-
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 col-md-6">
+                <div class="service-box">
+                    <div class="service-icon">
+                        <ul>
+                            <img src="images\servicios\api.png" alt="">
+                        </ul>
+                    </div>
+                    <div class="service-title"><a href="#">Apis</a></div>
+                    <div class="service-details">
+                        <ul>
+                            <p>Las Apis son herramientas de integracion que permite el uso de programas de terceros y reulitizar servicios ya creados.</p>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 col-md-6">
+                <div class="service-box">
+                    <div class="service-icon">
+                        <ul>
+                            <img src="images\servicios\videollamada.png" alt="">
+                        </ul>
+                    </div>
+                    <div class="service-title"><a href="#">Videollamadas</a></div>
+                    <div class="service-details">
+                        <ul>
+                            <p>El apartado de Videollamada con la capacidad de crear sesiones con un grupo considerable.</p>
+                        </ul>
                     </div>
                 </div>
             </div>
 
-        <div class="row">
-                    <div class="col-sm-12 col-md-6">
-                        <div class="service-box">
-                            <div class="service-icon">
-                                <ul>
-                                    <img src="images\servicios\api.png" alt="">
-                                </ul>
-                            </div>
-                            <div class="service-title"><a href="#">APIS</a></div>
-                            <div class="service-details">
-                                <ul>
-                                    <p>Las Apis son herramientas de integracion que permite el uso de programas de terceros y reulitizar servicios ya creados.</p>
-                                </ul>
-
-                            </div>
-                        </div>
+            <div class="col-sm-12 col-md-6">
+                <div class="service-box">
+                    <div class="service-icon ">
+                         <ul>
+                            <img src="images\servicios\archivos.png" alt="auto">
+                        </ul>
                     </div>
 
-                    <div class="row">
-                        <div class="col-sm-12 col-md-6">
-                            <div class="service-box">
-                                <div class="service-icon">
-                                    <ul>
-                                        <img src="images\servicios\videollamada.png" alt="">
-                                    </ul>
+                    <div class="service-title"><a href="#">Archivos</a></div>
+                    <div class="service-details">
+                        <ul>
+                            <p>Aplicando el termino de gestion inteligente, permite a los usuarios realizar busquedas rapidas, y descargar archivos.</p>
+                        </ul>
+                    </div>
+                </div>
+            </div>
 
-                                </div>
-                                <div class="service-title"><a href="#">Videollamada</a></div>
-                                <div class="service-details">
-                                    <ul>
-                                        <p>Las Apis son herramientas de integracion que permite el uso de programas de terceros y reulitizar servicios ya creados.</p>
-                                    </ul>
+            <div class="col-sm-12 col-md-6">
+                <div class="service-box">
+                    <div class="service-icon">
+                        <ul>
+                            <img src="images\servicios\calendario.png" alt="">
+                        </ul>
+                    </div>
+                    <div class="service-title"><a href="#">Calendario</a></div>
+                    <div class="service-details">
+                        <ul>
+                            <p>El calendario esta diseñado para permitirte asignar eventos y fechas importantes.</p>
+                        </ul>
+                    </div>
+                </div>
+            </div>
 
-                                </div>
-                            </div>
-                        </div>
+        </div>
     </div>
 </div>
 
+
+<!--Planes-->
+<div id="services" class="container">
+    <div class="landing-planes" id="director-planes">
+        <div class="row-title">Planes</div>
+    </div>
+
+    <div class="row-subtitle">Planes Destacados</div>
+
+</div>
 <script src="js/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/bootstrap-slider.min.js"></script>
