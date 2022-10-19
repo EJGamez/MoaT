@@ -7353,12 +7353,11 @@ svg.logo text {
     }
 }
 
-
 ::-webkit-scrollbar{
-background-color: transparent;width:11px;
+    background-color: transparent;width:11px;
 
-}::-webkit-scrollbar-thumb{
-background-color:#3195FF;
-border-radius:0px;
-width:10%;
-}
+    }::-webkit-scrollbar-thumb{
+    background-color:#3195FF;
+    border-radius:0px;
+    width:10%;
+    }
