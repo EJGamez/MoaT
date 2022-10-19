@@ -137,32 +137,32 @@
                 </div>
             </div>
 
-            <div class="row">
-                <div class="col-sm-12 col-md-6">
-                    <div class="service-box">
-                        <div class="service-icon">
-                            <ul>
+        <div class="row">
+            <div class="col-sm-12 col-md-6">
+                <div class="service-box">
+                    <div class="service-icon">
+                        <ul>
                                 <img src="images\servicios\taller.png" alt="">
-                            </ul>
+                        </ul>
 
-                        </div>
-                        <div class="service-title"><a href="#">Taller</a></div>
-                        <div class="service-details">
-                            <ul>
+                    </div>
+                    <div class="service-title"><a href="#">Taller</a></div>
+                    <div class="service-details">
+                        <ul>
                                 <p>El taller es el corazon de Moat, dentro de el estan todas las carateristicas y funcionalidades que ofrece.</p>
-                            </ul>
+                        </ul>
 
-                        </div>
                     </div>
                 </div>
-                <div class="row">
+            </div>
+
+        <div class="row">
                     <div class="col-sm-12 col-md-6">
                         <div class="service-box">
                             <div class="service-icon">
                                 <ul>
                                     <img src="images\servicios\api.png" alt="">
                                 </ul>
-
                             </div>
                             <div class="service-title"><a href="#">APIS</a></div>
                             <div class="service-details">
@@ -173,6 +173,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="row">
                         <div class="col-sm-12 col-md-6">
                             <div class="service-box">
