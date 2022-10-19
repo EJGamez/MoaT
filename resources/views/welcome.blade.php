@@ -13,7 +13,6 @@
 </head>
 
 <body>
-
     <div id="header-holder" class="main-header">
     <div class="bg-animation">
         <div class="graphic-show">
@@ -57,7 +56,6 @@
                                 <li class="support-button-holder support-dropdown">
                                     <a class="support-button" href="#">Soporte</a>
                                 </li>
-
                             </ul>
                         </div>
                     </div>
@@ -69,31 +67,35 @@
     <div id="top-content" class="container-fluid">
         <div class="container">
             <div class="row">
-                <div></div>
+                <div class="col-md-6">
                     <div id="main-slider">
                         <div class="slide">
-                            <div class="big-title">
-                                <h1>Dedicado a Instituciones Educativas.</h1>
+                            <div class="noti-holder">
+                                <a href="#">
+                                    <div class="noti">
+                                        <span class="text">Dedicado a Instituciones Educativas.</span>
+                                    </div>
+                                </a>
                             </div>
-                            <div class="spacer"></div>
+                            <div class="spacer">
                             <div class="big-title">Todo en <span>un solo lugar,</span> <br>donde sea, cuando sea.</div>
                             <p>Moat es el primer paso para el desarrollo de sistemas autosuficientes dedicados a las instituciones educativas, empresas y el usuario comun.</p>
+                            </div>
+
                             <div class="btn-holder">
-                                <a href="#" class="ybtn ybtn-header-color">Registrarse</a><a href="#" class="ybtn ybtn-white ybtn-shadow">Acerca de...</a>
+                                <a href="#" class="ybtn ybtn-header-color">Registrarse</a><a href="#" class="ybtn ybtn-white ybtn-shadow">Acerca de</a>
                             </div>
                         </div>
                     </div>
-
                 </div>
-
                 <div class="col-md-6">
                     <img class="header-graphic" src="images/graphic1.png" alt="" />
                 </div>
-
             </div>
         </div>
     </div>
 </div>
+
 <div id="info" class="container-fluid">
     <div class="container">
         <div class="row">
@@ -153,7 +155,42 @@
                         </div>
                     </div>
                 </div>
+                <div class="row">
+                    <div class="col-sm-12 col-md-6">
+                        <div class="service-box">
+                            <div class="service-icon">
+                                <ul>
+                                    <img src="images\servicios\api.png" alt="">
+                                </ul>
 
+                            </div>
+                            <div class="service-title"><a href="#">APIS</a></div>
+                            <div class="service-details">
+                                <ul>
+                                    <p>Las Apis son herramientas de integracion que permite el uso de programas de terceros y reulitizar servicios ya creados.</p>
+                                </ul>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 col-md-6">
+                            <div class="service-box">
+                                <div class="service-icon">
+                                    <ul>
+                                        <img src="images\servicios\videollamada.png" alt="">
+                                    </ul>
+
+                                </div>
+                                <div class="service-title"><a href="#">Videollamada</a></div>
+                                <div class="service-details">
+                                    <ul>
+                                        <p>Las Apis son herramientas de integracion que permite el uso de programas de terceros y reulitizar servicios ya creados.</p>
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
     </div>
 </div>
 

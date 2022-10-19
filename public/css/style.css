@@ -421,10 +421,13 @@ a, input[type=submit] {
 }
 
 svg.logo {
-    width: 62px;
+    width: 70px;
     height: auto;
 }
-
+a.navbar-brand{
+    top:70px;
+    padding-right: 100px;
+}
 svg.logo text {
     font-family: "Rubik", sans-serif;
     font-weight: 500;
@@ -7353,11 +7356,14 @@ svg.logo text {
     }
 }
 
-::-webkit-scrollbar{
-    background-color: transparent;width:11px;
+    ::-webkit-scrollbar{
+    background-color: #1886EB;
+    width:8px;
 
     }::-webkit-scrollbar-thumb{
-    background-color:#3195FF;
-    border-radius:0px;
-    width:10%;
+    background-color:#FFFFFF;
+    border-radius:15px;
+    width:5%;
     }
+
+
