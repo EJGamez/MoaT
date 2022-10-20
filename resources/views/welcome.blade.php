@@ -54,7 +54,7 @@
                                 </li>
 
                                 <li class="support-button-holder support-dropdown">
-                                    <a class="support-button" href="#">Soporte</a>
+                                    <a class="support-button" href="#">Soportes</a>
                                 </li>
                             </ul>
                         </div>
