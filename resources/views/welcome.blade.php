@@ -266,7 +266,7 @@
             </div>
             <div class="col-md-12">
                 <div class="pricing-box pricing-box-simple pricing-box-horizontal pricing-color2 bestbuy">
-                    <div class="pricing-content">
+                    <div class="pricing-content"></div>
                         <div class="pricing-head">
                             <div class="pricing-title">Business Plan</div>
                         </div>
@@ -431,3 +431,19 @@
 
 
 
+r
+e</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+bg-animationBusiness landi
